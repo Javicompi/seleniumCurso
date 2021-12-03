@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="selenium_basico">
+    <test name="testng_Test">
+        <classes>
+            <class name="katalon.test.KatalonTest"/>
+            <!--            <class name="selenium_basico.TestSuit2"/>-->
+        </classes>
+    </test>
+</suite>
